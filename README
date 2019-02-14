@@ -1,0 +1,10 @@
+To run test use:
+
+python3 -m pytest -s -v PATH_TO_test/projects/photogallery/wordpress/tests/EmbedMedia.py --alluredir PATH_TO_test/projects/photogallery/wordpress/results/
+
+
+Check the result: 
+
+allure serve PATH_TO_test/projects/photogallery/wordpress/results/
+
+
