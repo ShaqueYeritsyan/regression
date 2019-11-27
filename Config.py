@@ -9,7 +9,7 @@ class Config:
 	#environment = webdriver.Chrome()
 
 	#### URL ####
-	WPBaseUrl = "https://backupqa314.000webhostapp.com/"
+	WPBaseUrl = "https://backupqa.000webhostapp.com/"
 	WPUrl = ""
 
 	#### User Credentials ####
